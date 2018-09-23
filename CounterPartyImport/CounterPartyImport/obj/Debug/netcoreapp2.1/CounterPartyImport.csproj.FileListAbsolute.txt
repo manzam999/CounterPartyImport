@@ -1,0 +1,14 @@
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\bin\Debug\netcoreapp2.1\CounterPartyImport.deps.json
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\bin\Debug\netcoreapp2.1\CounterPartyImport.runtimeconfig.json
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\bin\Debug\netcoreapp2.1\CounterPartyImport.runtimeconfig.dev.json
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\bin\Debug\netcoreapp2.1\CounterPartyImport.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.csprojAssemblyReference.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.RazorAssemblyInfo.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.RazorAssemblyInfo.cs
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.AssemblyInfoInputs.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.AssemblyInfo.cs
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.RazorTargetAssemblyInfo.cache
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\bin\Debug\netcoreapp2.1\CounterPartyImport.pdb
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.dll
+C:\Users\Mantas\Documents\Visual Studio 2017\Projects\CounterPartyImport\CounterPartyImport\obj\Debug\netcoreapp2.1\CounterPartyImport.pdb
